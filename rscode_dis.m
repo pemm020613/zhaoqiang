@@ -1,3 +1,4 @@
+%%%%%%%%%%%%%%%%%%%
 function dis = rscode_dis(code1,code2)
 dis = 0;
 for i = 1:7
